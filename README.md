@@ -1,7 +1,7 @@
 # bug-free-disco
 Cybersecurity and data privacy 2024 - Blended
 
-#Logbook
+# Logbook
 | Date  | Used hours | Subject(s) | output |
 | ------------- | ------------- | ------------- | ------------- |
 | 30.10.2024  | 2 | Kick-off lecture | Lecture attended |
