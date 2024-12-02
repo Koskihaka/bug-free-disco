@@ -1,0 +1,113 @@
+/* Yleisrakenne */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(135deg, #ff7eb3, #ff758c, #ff5851);
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: #fff;
+}
+
+/* Kontaineri */
+.container {
+    background: #ffffff;
+    color: #333;
+    padding: 2rem;
+    border-radius: 12px;
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.3);
+    width: 100%;
+    max-width: 400px;
+}
+
+/* Otsikot */
+h1 {
+    text-align: center;
+    color: #ff5851;
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+}
+
+/* Lomake ja lomake-elementit */
+label {
+    font-weight: bold;
+    color: #ff5851;
+    display: block;
+    margin-bottom: 0.5rem;
+}
+
+input,
+select {
+    width: 100%;
+    padding: 0.8rem;
+    margin-bottom: 1.2rem;
+    border: 2px solid #ff758c;
+    border-radius: 8px;
+    font-size: 1rem;
+    box-sizing: border-box;
+    background: #fff;
+    color: #333;
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+input:focus,
+select:focus {
+    border-color: #ff7eb3;
+    box-shadow: 0 0 8px rgba(255, 120, 147, 0.5);
+    outline: none;
+}
+
+/* Nappi */
+button {
+    width: 100%;
+    padding: 0.8rem;
+    background: linear-gradient(135deg, #ff758c, #ff5851);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    font-size: 1.1rem;
+    cursor: pointer;
+    transition: background 0.3s ease, transform 0.2s ease;
+}
+
+button:hover {
+    background: linear-gradient(135deg, #ff7eb3, #ff5851);
+    transform: scale(1.05);
+}
+
+/* Virhe- ja onnistumisviestit */
+.error {
+    color: #ff5851;
+    font-size: 0.9rem;
+}
+
+.success {
+    color: #4caf50;
+    font-size: 0.9rem;
+}
+
+/* Lomake-elementtien ryhmittely */
+.form-group {
+    margin-bottom: 1.5rem;
+}
+
+/* Linkit (jos käytetään) */
+a {
+    color: #ff758c;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: #ff5851;
+}
+
+/* Responsiivisuus mobiililaitteille */
+@media (max-width: 600px) {
+    .container {
+        padding: 1.5rem;
+    }
+}
