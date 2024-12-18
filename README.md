@@ -16,5 +16,5 @@ Cybersecurity and data privacy 2024 - Blended
 | 2.12.2024  | 3 | Tutorial videos, coding, and submission. | Watched tutorial videos, modified site layout code using AI, and submitted Phase 2 of "The Booking System Project." The CSP header has now been added, which resolved the issue "Content Security Policy Header Not Set." The X-Frame-Options and X-Content-Type-Options headers have also been added. |
 | 3.12.2024 | 3 | Watched tutorial video: Wider test, ZAP report analysis and task submission | Analyzed ZAP report and submitted the Phase 3 task |
 | 17.12.2024 | 4 | Watched the 2.12. lecture and Phase 4 task work | Phase 4 task work | 
-| 18.12.2024 | 3 | Phase 4 task submission | Completed and submitted Phase 4 of "The Booking System Project." |
+| 18.12.2024 | 3 | Phase 4 task submission and studying GDPR| Completed and submitted Phase 4 of "The Booking System Project." |
 | Used hours | 43 | 
