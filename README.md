@@ -21,4 +21,4 @@ Cybersecurity and data privacy 2024 - Blended
 | 18.12.2024 | 4 | Phase 4 task submission and studying GDPR materials on ItsLearning | Completed and submitted Phase 4 of "The Booking System Project." |
 |19.12.2024 | 4 | Watched the 11.12. lecture, doing Portswigger labs and The final phase | Completed SQL injection Lab 3, authentication Labs 2 and 4, access control Labs 2-3 and 7 |
 |20.12.2024 | 3 | Finalizing the final phase and reviewing Week 7 materials on ItsLearning | Submitted The Final Phase |
-| Used hours | 55 | 
+| Used hours | 56 | 
